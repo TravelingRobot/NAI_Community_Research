@@ -1,4 +1,5 @@
-# NAI_Community_Research
-My attempt to pull together key findings from the smart people in #community-reserach in the NAI discord.
+# NAI_TR_Research_Wiki
+- Log of my personal findings while tinkering with NovelAI
+- Archieve of my log from research findings from #community-reserach in the NAI discord. 
 
-You are looking for the [wiki](https://github.com/TravellingRobot/NAI_Community_Research/wiki)
+You'll find everything at the [wiki](https://github.com/TravellingRobot/NAI_Community_Research/wiki)
