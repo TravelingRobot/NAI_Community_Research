@@ -1,4 +1,4 @@
-# NAI_TR_Research_Wiki
+# NAI: TR's Research Wiki
 - Log of my personal findings while tinkering with NovelAI
 - Archieve of my log from research findings from #community-reserach in the NAI discord. 
 
